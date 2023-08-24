@@ -1,0 +1,10 @@
+ld R6 10
+nop
+ld R0 14
+nop
+mult R0 R6 R5
+nop
+nop
+nop
+nop
+nop
