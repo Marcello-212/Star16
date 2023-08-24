@@ -1,6 +1,6 @@
  # Introduction # 
 
- Hi! My name is Marcello and this is the guide to using my simulator of my computer.
+ Hi! My name is Marcello and this is the guide to using my simulator of my computer. All of the files mentioned are in Mycomp(accidentaly uploaded that and not the individual files)
 
  # The specs #
 
